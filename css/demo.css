@@ -24,7 +24,8 @@ body {
 	background: #323437;
 	-webkit-font-smoothing: antialiased;
 	-moz-osx-font-smoothing: grayscale;
-	counter-reset: folderstyle;  
+	counter-reset: folderstyle; 
+
 }
 
 a {
